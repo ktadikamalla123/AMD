@@ -1,0 +1,14 @@
+{
+  "name": "ca",
+  "description": "ca list only",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
